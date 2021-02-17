@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name": "Luke J. Snyder",
+    "occupation": "Software Engineer",
+    "description": "",
+    "image": "dp2.png",
+    "bio": "Dynamic software engineering professional recognized for being a highly detailed problem-solver. Thrives in fastpaced environments and able to work independently in a high degree of ambiguity. Experience working with C-Suite level executives and board members.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "lukejsnyder@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/luke-j-snyder-481884178",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "email",
+        "url": "mailto:lukejsnyder@gmail.com",
+        "className": "fa fa-envelope"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "XAVIER UNIVERSITY",
+        "degree1": "Bachelor's Degree Computer Science",
+        "degree2": "Minor - Information Systems",
+        "graduated": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Consultancy Services at Kroger",
+        "title": "Software Engineer, Milford, OH",
+        "years": "July 2019 - Present",
+        "description1": [
+          "- Assisted a team to identify a problem that caused consumers to receive free products totaling ~$5 million per day. "
+        ],
+        "description2": [
+          "- Personal project which reduced IT support tickets by 12% and was nominated for TCS Northern American division"
+        ],
+        "description3": [
+          "- Provided support and order fulfillment for 3 rd party vendors one being Instacart"
+        ],
+        "description4": [
+          "- Worked with offshore and onsite developers to renovate a web-based application for online Curb Side Pickup"
+        ],
+        "description5": [
+          "- Created an order tracking system that provided customers the ability to see their order(s) being fulfilled in real time"
+        ],
+        "description6": [
+          "- Troubleshooted and assisted with the deployment of new handheld technology to replace legacy devices"
+        ]
+      },
+      {
+        "company": "GREAT AMERICAN INSURANCE GROUP",
+        "title": "Information Technology Intern, Cincinnati, OH",
+        "years": "May 2017 - May 2019",
+        "description1": "- Provided and developed IT solutions for the CFO, board of directors and senior level executives; Troubleshot issues for various software including Windows 10 and Microsoft Office suite",
+        "description2": "- Completed the setup and configuration of over 400 iOS, Windows and IOT devices",
+        "description3": "- Trained new employees on proper troubleshooting techniques",
+        "description4": "- Worked independently and as part of a team to manage the IT needs of the financial branch of the company",
+        "description5": "- Imaged and configured new and existing employee machines and offered program trainings for coworkers"
+      },
+      {
+        "company": "JAMBA JUICE CORPORATE",
+        "title": "Accounting Intern, Emeryville, CA",
+        "years": "May 2015 - August 2015",
+        "description1": "- Reviewed and corrected asset expense invoices",
+        "description2": "- Reviewed and presented quarterly reports for SEC and Jamba Board of Directors"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "JSON",
+        "level": "90%"
+      },
+      {
+        "name": "Agile Methodology",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Quality Assurance",
+        "level": "90%"
+      },
+      {
+        "name": "IT optimization",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "REST API development",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Zoom Clone with NodeJS",
+        "category": "Zoom Clone built with NodeJS",
+        "image": "zoom.jpg",
+        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+      },
+      {
+        "title": "Robinhood Clone",
+        "category": "Robinhood Clone built with ReactJS",
+        "image": "robinhood.jpg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
