@@ -107,7 +107,7 @@ class Resume extends Component {
                               class="skills-icons"
                             />
                           </div>
-                          <h3>CSS3</h3>
+                          <h3>CSS</h3>
                         </div>
                       </div>
 
