@@ -3,7 +3,7 @@
     "name": "Luke J. Snyder",
     "occupation": "Software Engineer",
     "description": "",
-    "image": "dp2.png",
+    "image": "info.png",
     "bio": "Dynamic software engineering professional recognized for being a highly detailed problem-solver. Thrives in fastpaced environments and able to work independently in a high degree of ambiguity. Experience working with C-Suite level executives and board members.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "lukejsnyder@gmail.com",
@@ -117,34 +117,6 @@
       {
         "name": "Git",
         "level": "90%"
-      }
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
-        "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
-      },
-      {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS",
-        "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
       }
     ]
   }

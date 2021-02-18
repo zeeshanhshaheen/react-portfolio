@@ -101,8 +101,9 @@ class Resume extends Component {
         </div>
         <hr />
         <br />
-        <div className="row" id="extracurricular">
-          <div className=" ">
+
+        <div className="row header-col" id="extracurricular">
+          <div className="">
             <h1>
               <span>Extracurricular Activities</span>
             </h1>
@@ -112,7 +113,7 @@ class Resume extends Component {
             <div className="nine columns main-col">
               <div className="">
                 <ul className="skills">
-                  - Volunteered at the Academy of World languages to teach 5 th
+                  Volunteered at the Academy of World languages to teach 5 th
                   and 10 th graders how to program Lego robots
                 </ul>
               </div>

@@ -1,9 +1,5 @@
 /*
 =====================================================================
-*   Ceevee v1.0 Layout Stylesheet
-*   url: styleshout.com
-*   03-18-2014
-=====================================================================
 
    TOC:
    a. General Styles
@@ -210,10 +206,6 @@ ul#nav li a:active {
    background-color: transparent !important;
 }
 
-ul#nav li.current a {
-   color: #F06000;
-}
-
 /* ------------------------------------------------------------------ */
 
 /* c. About Section
@@ -247,8 +239,8 @@ ul#nav li.current a {
 
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 130px;
+   height: 140px;
    border-radius: 100%;
 }
 
